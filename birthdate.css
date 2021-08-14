@@ -1,0 +1,29 @@
+body{
+    background-color: violet;
+}
+
+h1{
+    text-align: center;
+    padding: 1rem;
+    
+}
+.container {
+    text-align: center;
+    padding-bottom: 1rem;
+   
+}
+
+label{
+    display: block;
+    padding: 1rem;
+}
+
+button{
+    display: block;
+    margin : auto;
+    margin-top: 1rem;;
+}
+
+#output {
+    padding: 1rem;
+}

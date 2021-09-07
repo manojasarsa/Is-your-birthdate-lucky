@@ -1,10 +1,12 @@
 body{
-    background-color: violet;
+    background-image: url("images/birthday.jpg");
+    background-position: center;
+    
 }
 
 h1{
     text-align: center;
-    padding: 1rem;
+    padding: 2rem;
     
 }
 .container {
@@ -16,6 +18,7 @@ h1{
 label{
     display: block;
     padding: 1rem;
+    font-size: large;
 }
 
 button{
@@ -24,6 +27,11 @@ button{
     margin-top: 1rem;;
 }
 
+button:hover{
+    background-color: pink;
+}
+
 #output {
     padding: 1rem;
+    font-size: x-large;
 }
